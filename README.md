@@ -12,25 +12,15 @@ Visualisierung von Fachdaten zu den Themenbereichen
 - Energie
 - Bildung
 
+## TL;DR
 
-## Voraussetzungen
+```bash
+docker build -t masterportal:latest .
+````
 
-* Kubernetes 1.23+
-* Helm 3.8.0+
-
-### Helm Install 
-
-## Installation
-
-TBD
-
-## Parameter
-Die wichtigen Parameter werden im values.yaml konfiguriert.
-
-
-## Enviroment Variablen
+## Links
+https://gitlab.opencode.de/geowerkstatt-hamburg/masterportal
 
 ## License
-
 
 Licensed under the MIT License
